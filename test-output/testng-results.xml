@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17206" started-at="2015-05-20T20:30:16Z" finished-at="2015-05-20T20:30:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17206" started-at="2015-05-20T20:30:16Z" finished-at="2015-05-20T20:30:33Z">
+      <class name="qafactory.java_pass_test">
+        <test-method status="PASS" signature="start_up()[pri:0, instance:qafactory.java_pass_test@224aed64]" name="start_up" is-config="true" duration-ms="6804" started-at="2015-05-20T23:30:16Z" finished-at="2015-05-20T23:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start_up -->
+        <test-method status="PASS" signature="javaPassTest()[pri:0, instance:qafactory.java_pass_test@224aed64]" name="javaPassTest" duration-ms="9042" started-at="2015-05-20T23:30:23Z" finished-at="2015-05-20T23:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaPassTest -->
+        <test-method status="PASS" signature="shut_down()[pri:0, instance:qafactory.java_pass_test@224aed64]" name="shut_down" is-config="true" duration-ms="1305" started-at="2015-05-20T23:30:32Z" finished-at="2015-05-20T23:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shut_down -->
+      </class> <!-- qafactory.java_pass_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
