@@ -15,8 +15,8 @@ public class java_pass_test {
 	String secondpass;
 	String newpassone;
 	String newpasstwo;
-	String masterpass = "Roman123";
-	String name = "Wazup321";
+	String masterpass = "Roman123"; //вписать любой мастерпасс
+ 	String name = "Wazup321";       //вписать любое имя
 	
 	
 	
